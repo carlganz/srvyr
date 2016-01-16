@@ -2,7 +2,7 @@
 srvyr
 =====
 
-[![Travis-CI Build Status](https://travis-ci.org/gergness/srvyr.svg?branch=master)](https://travis-ci.org/gergness/srvyr) [![Coverage Status](https://img.shields.io/codecov/c/github/gergness/srvyr/master.svg)](https://codecov.io/github/gergness/srvyr?branch=master)
+[![Travis-CI Build Status](https://travis-ci.org/gergness/srvyr.svg?branch=master)](https://travis-ci.org/gergness/srvyr) [![Coverage Status](https://img.shields.io/codecov/c/github/gergness/srvyr/master.svg)](https://codecov.io/github/gergness/srvyr?branch=master) [![Downloads](http://cranlogs.r-pkg.org/badges/srvyr?color=brightgreen)](http://www.r-pkg.org/pkg/srvyr)
 
 srvyr brings parts of [dplyr's](https://github.com/hadley/dplyr/) syntax to survey analysis, using the [survey](http://cran.r-project.org/package=survey) package.
 
